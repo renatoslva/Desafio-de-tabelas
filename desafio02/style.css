@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to bottom, red, blue);
+}
+
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+table{ 
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;  
+}
+td{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: 2px solid black;
+    height: 90px;
+    width: 90px;
+    background-color:burlywood ;
+}
